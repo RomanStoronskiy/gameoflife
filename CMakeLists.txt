@@ -3,4 +3,4 @@ project(gameoflife)
 
 set(CMAKE_CXX_STANDARD 11)
 
-add_executable(gameoflife main.cpp)
+add_executable(gameoflife main.cpp Playground.cpp Playground.h)
